@@ -123,7 +123,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/838bffe7-2c86-47c9-9af8-153522b62530" />
+<img width="1629" height="798" alt="image" src="https://github.com/user-attachments/assets/6dc37f1a-368e-4c1f-a51d-54c63a962d77" />
 
 
 ## RESULT:
